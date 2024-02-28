@@ -1,4 +1,4 @@
-# F-B-streamc on Linux
+# F-B-streamc on ubuntu
 
 To build step by step, you should:
 ```shell
